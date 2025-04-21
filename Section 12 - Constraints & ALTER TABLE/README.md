@@ -20,4 +20,4 @@ Renaming a column or even a table is next, and you’ll see how to do it smoothl
 
 We then cover how to **modify column types or constraints**, such as changing a column from `INT` to `VARCHAR` or making it `NOT NULL`.
 
-Lastly, we revisit constraints within `ALTER TABLE`, showing how to **add or remove constraints dynamically** as your database evolves.
+Lastly, we revis it constraints within `ALTER TABLE`, showing how to **add or remove constraints dynamically** as your database evolves.
